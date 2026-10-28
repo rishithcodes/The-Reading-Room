@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/reading_room?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+spring.datasource.username=root
+spring.datasource.password=root
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.show-sql=false
+spring.jpa.open-in-view=false
+server.port=8080
+app.cors.allowed-origin=http://localhost:5173
